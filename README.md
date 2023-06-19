@@ -48,7 +48,8 @@ The host can then be run from the host directory by running:
 ```
 sudo python3 host.py
 ```
-
+Make sure to include a .env file with the variable:
+BE_IP_PORT = ’http://[BACKENDIP]:5000’
 
 ## Configuration
 Configuration happens through the respective .env files for the respective system components.
