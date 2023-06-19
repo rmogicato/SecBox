@@ -1,5 +1,8 @@
 # SecBox
 SecBox tool; a lightweight, container based malware analysis sandbox.
+This tool was developed by Raffael Mogicato and Adrian Zermin as a Master project at the University of Zurich.
+It has been accepted as a demo paper in [NOMS 2023](https://noms2023.ieee-noms.org/).
+
 Requires Python version 3.9.
 
 ## Frontend Setup
